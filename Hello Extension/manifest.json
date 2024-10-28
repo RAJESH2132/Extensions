@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Hello Rajesh",
+  "description": "Learning Web Extensions",
+  "version": "1.0",
+  "action": {
+    "default_popup": "./popup/hello.html",
+    "default_icon": "./images/hello_extension.png"
+  }
+}
